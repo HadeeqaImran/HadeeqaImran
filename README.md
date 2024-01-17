@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-<picture  style="width:100;">
-![Animation Alt Text](./animation.gif)
-</picture>
+![Animation Alt Text](./animation.gif) {width="750px" height="400px"}
 <!--<iframe width="1074" height="604" src="https://www.youtube.com/embed/f02mOEt11OQ" title="code-fi / lofi beats to code/relax to" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 <!--
