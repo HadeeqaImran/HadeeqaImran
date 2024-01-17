@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="./animation.gif" width="40" height="40" />
+<img src="./animation.gif" style="width: 100%;" />
 
 
 <!--<iframe width="1074" height="604" src="https://www.youtube.com/embed/f02mOEt11OQ" title="code-fi / lofi beats to code/relax to" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
