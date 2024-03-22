@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <img src="./animation.gif" style="width: 3000px;" />
 
 
