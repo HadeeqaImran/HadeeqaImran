@@ -4,7 +4,7 @@
 
 ### Full-Stack Product Engineer · Web · Mobile · AI
 
-I build production products across **React, React Native, Node.js, and AI** — with a focus on clean UX, reliable systems, and software that solves real problems.
+I build production products across **React, React Native, Node.js, and AI**, with a focus on clean UX, reliable systems, and software that solves real problems.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://hadeeqa-imran.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadeeqa-imran)
@@ -14,7 +14,7 @@ I build production products across **React, React Native, Node.js, and AI** — 
 
 ---
 
-## <img src="https://api.iconify.design/material-symbols/person.svg?color=%23111111" width="22" /> About me
+## About me
 
 I’m a software engineer who enjoys owning the full product journey — from interface and application architecture to APIs, data, analytics, releases, and AI-powered features.
 
@@ -29,13 +29,13 @@ Cloud         →  AWS · Firebase · Vercel
 
 ---
 
-## <img src="https://api.iconify.design/material-symbols/work.svg?color=%23111111" width="22" /> Selected work
+## Selected work
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### <img src="https://api.iconify.design/material-symbols/favorite.svg?color=%23111111" width="18" /> Saela
+### Saela
 
 AI-powered women’s wellness product built around conversations, daily reflections, biological rhythms, and personalized insights.
 
@@ -50,7 +50,7 @@ AI-powered women’s wellness product built around conversations, daily reflecti
 </td>
 <td width="33%" valign="top">
 
-### <img src="https://api.iconify.design/material-symbols/balance.svg?color=%23111111" width="18" /> Pakistan Lawbot
+### Pakistan Lawbot
 
 AI legal research platform for Pakistani law, supporting questions in **English and Urdu** with source-aware answers.
 
@@ -64,7 +64,7 @@ AI legal research platform for Pakistani law, supporting questions in **English 
 </td>
 <td width="33%" valign="top">
 
-### <img src="https://api.iconify.design/material-symbols/play-circle.svg?color=%23111111" width="18" /> AITube
+### AITube
 
 AI-native video platform for generating, discovering, and interacting with AI-created content.
 
@@ -82,7 +82,17 @@ AI-native video platform for generating, discovering, and interacting with AI-cr
 
 ---
 
-## <img src="https://api.iconify.design/material-symbols/architecture.svg?color=%23111111" width="22" /> How I work
+## A little more about me
+
+I studied Computer Science at FAST-NUCES and have spent my career learning by building real products.
+
+I enjoy teams where engineers are expected to understand the problem, challenge assumptions, communicate clearly, and take ownership beyond a ticket.
+
+When I am not shipping features, I am usually learning something new in AI, system design, product engineering, or developer tooling.
+
+---
+
+## How I work
 
 **01 / Product over tickets**  
 I like understanding the workflow behind a feature, not just implementing the UI.
@@ -98,7 +108,7 @@ I’m comfortable moving from frontend details to backend architecture, analytic
 
 ---
 
-## <img src="https://api.iconify.design/material-symbols/code.svg?color=%23111111" width="22" /> Tech stack
+## Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,postgres,mongodb,redis,aws,firebase,git" />
@@ -114,7 +124,7 @@ I’m comfortable moving from frontend details to backend architecture, analytic
 
 ---
 
-## <img src="https://api.iconify.design/material-symbols/neurology.svg?color=%23111111" width="22" /> Current focus
+## Current focus
 
 - AI-native product experiences
 - Reliable RAG systems
@@ -127,7 +137,7 @@ I’m comfortable moving from frontend details to backend architecture, analytic
 
 ---
 
-## <img src="https://api.iconify.design/material-symbols/bar-chart.svg?color=%23111111" width="22" /> GitHub
+## GitHub
 
 <div align="center">
 
