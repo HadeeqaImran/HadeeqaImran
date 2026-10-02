@@ -14,7 +14,7 @@ I build production products across **React, React Native, Node.js, and AI** — 
 
 ---
 
-## 👋 About me
+## <img src="https://api.iconify.design/material-symbols/person.svg?color=%23111111" width="22" /> About me
 
 I’m a software engineer who enjoys owning the full product journey — from interface and application architecture to APIs, data, analytics, releases, and AI-powered features.
 
@@ -29,13 +29,13 @@ Cloud         →  AWS · Firebase · Vercel
 
 ---
 
-## 🚀 Selected work
+## <img src="https://api.iconify.design/material-symbols/work.svg?color=%23111111" width="22" /> Selected work
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🌿 Saela
+### <img src="https://api.iconify.design/material-symbols/favorite.svg?color=%23111111" width="18" /> Saela
 
 AI-powered women’s wellness product built around conversations, daily reflections, biological rhythms, and personalized insights.
 
@@ -50,7 +50,7 @@ AI-powered women’s wellness product built around conversations, daily reflecti
 </td>
 <td width="33%" valign="top">
 
-### ⚖️ Pakistan Lawbot
+### <img src="https://api.iconify.design/material-symbols/balance.svg?color=%23111111" width="18" /> Pakistan Lawbot
 
 AI legal research platform for Pakistani law, supporting questions in **English and Urdu** with source-aware answers.
 
@@ -64,7 +64,7 @@ AI legal research platform for Pakistani law, supporting questions in **English 
 </td>
 <td width="33%" valign="top">
 
-### 🎬 AITube
+### <img src="https://api.iconify.design/material-symbols/play-circle.svg?color=%23111111" width="18" /> AITube
 
 AI-native video platform for generating, discovering, and interacting with AI-created content.
 
@@ -82,23 +82,23 @@ AI-native video platform for generating, discovering, and interacting with AI-cr
 
 ---
 
-## 🧩 What I care about
+## <img src="https://api.iconify.design/material-symbols/architecture.svg?color=%23111111" width="22" /> How I work
 
-**Product over tickets**  
+**01 / Product over tickets**  
 I like understanding the workflow behind a feature, not just implementing the UI.
 
-**Production quality**  
+**02 / Production quality**  
 Performance, edge cases, observability, error handling, and maintainability matter as much as the happy path.
 
-**Useful AI**  
+**03 / Useful AI**  
 I’m interested in AI when it improves an actual workflow — retrieval, automation, personalization, generation, or decision support.
 
-**End-to-end ownership**  
+**04 / End-to-end ownership**  
 I’m comfortable moving from frontend details to backend architecture, analytics, integrations, and deployment.
 
 ---
 
-## 🛠 Tech I work with
+## <img src="https://api.iconify.design/material-symbols/code.svg?color=%23111111" width="22" /> Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,postgres,mongodb,redis,aws,firebase,git" />
@@ -114,7 +114,7 @@ I’m comfortable moving from frontend details to backend architecture, analytic
 
 ---
 
-## 🧠 Currently interested in
+## <img src="https://api.iconify.design/material-symbols/neurology.svg?color=%23111111" width="22" /> Current focus
 
 - AI-native product experiences
 - Reliable RAG systems
@@ -127,7 +127,7 @@ I’m comfortable moving from frontend details to backend architecture, analytic
 
 ---
 
-## 📊 GitHub
+## <img src="https://api.iconify.design/material-symbols/bar-chart.svg?color=%23111111" width="22" /> GitHub
 
 <div align="center">
 
@@ -144,7 +144,7 @@ I’m comfortable moving from frontend details to backend architecture, analytic
 
 <div align="center">
 
-### Building useful products. Learning fast. Going deeper into AI.
+### Build useful products. Make them reliable. Keep learning.
 
 [Portfolio](https://hadeeqa-imran.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/hadeeqa-imran)
 
