@@ -13,7 +13,6 @@ I build production products across **React, React Native, Node.js, and AI**, wit
 </div>
 
 ---
-
 ## About me
 
 I’m a software engineer who enjoys owning the full product journey — from interface and application architecture to APIs, data, analytics, releases, and AI-powered features.
@@ -28,7 +27,6 @@ Cloud         →  AWS · Firebase · Vercel
 ```
 
 ---
-
 ## Selected work
 
 <table>
@@ -81,17 +79,6 @@ AI-native video platform for generating, discovering, and interacting with AI-cr
 </table>
 
 ---
-
-## A little more about me
-
-I studied Computer Science at FAST-NUCES and have spent my career learning by building real products.
-
-I enjoy teams where engineers are expected to understand the problem, challenge assumptions, communicate clearly, and take ownership beyond a ticket.
-
-When I am not shipping features, I am usually learning something new in AI, system design, product engineering, or developer tooling.
-
----
-
 ## How I work
 
 **01 / Product over tickets**  
@@ -107,7 +94,6 @@ I’m interested in AI when it improves an actual workflow — retrieval, automa
 I’m comfortable moving from frontend details to backend architecture, analytics, integrations, and deployment.
 
 ---
-
 ## Tech stack
 
 <p align="center">
@@ -123,7 +109,6 @@ I’m comfortable moving from frontend details to backend architecture, analytic
 </p>
 
 ---
-
 ## Current focus
 
 - AI-native product experiences
@@ -136,7 +121,6 @@ I’m comfortable moving from frontend details to backend architecture, analytic
 > The interesting part is rarely the model call itself. It’s everything around it that makes the product reliable, useful, and trustworthy.
 
 ---
-
 ## GitHub
 
 <div align="center">
